@@ -1,0 +1,22 @@
+body {
+    background:whitesmoke; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.head {
+    height: 40px;
+    background: black;
+    color: white;
+    text-align: center; 
+}
+.cls1 {
+    margin-top:100px;
+    margin-left: 100px;
+    height: 400px;
+}
+.colm {
+    background: white;
+    width: 100px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 2px 2px;
+}
